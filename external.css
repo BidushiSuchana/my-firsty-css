@@ -1,0 +1,26 @@
+*{
+    margin: 10px;
+
+}
+#p2{
+    text-align: center;
+    text-align: justify;
+    color: brown;
+    font-size: medium;
+    background-color: beige;
+}
+.ol{
+    color: rgb(243, 15, 15);
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.ul{
+    color: rgb(15, 26, 243);
+    text-align: justify;
+    font-style: italic;
+    
+}
+.inline{
+    display: flex;
+}
